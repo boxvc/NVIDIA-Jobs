@@ -1,6 +1,8 @@
 # 2018-NVIDIA-Deep-Learning-Positions
 2018 NVIDIA 深度学习在招岗位
+
 ### Autonomous Driving System Engineer
+
 #### Location: Shanghai
 
 NVIDIA is hiring System Engineers for its Autonomous Vehicle teams. As a member of our team you will be responsible for developing and maintaining software to drive the car, given various sensor input devices including Camera’s, LIDAR, RADAR, GPS, IMU and others on Vehicle CAN, work with different teams here to transform the information into driving the car with the best experience. You will work with different teams on all sort of challenging problems for autonomous driving including computer vision, deep learning, object tracking, car controlling. You will help build the software and make it work flawlessly and safely on our driving platform. You are expected to have strong communication, organizational, and analytical skills. Solid understanding and strong System software experience is a requirement. Experience with GPU technology, image processing, computer vision, and multimedia are highly valued. Familiarity with deep learning / artificial intelligence is desirable.
@@ -28,3 +30,5 @@ NVIDIA is hiring System Engineers for its Autonomous Vehicle teams. As a member 
 •	We believe that realizing self-driving cars will be a defining contribution of our generation (e.g. traffic accidents are responsible for ~1.25 million deaths per year world-wide). We have the funding and scale, but we need your help on our team.
 
 ##### NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative, autonomous and love a challenge, we want to hear from you!
+
+#### Contact: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
