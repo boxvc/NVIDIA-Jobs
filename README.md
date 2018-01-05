@@ -19,10 +19,12 @@ NVIDIA is searching for a world-class trainer to help create and deliver high-qu
 4. This role presents an opportunity for an accomplished candidate with a capacity to learn quickly and exercise good judgment to gain in-depth experience driving growth in GPU-accelerated Deep Learning training within the developer community. 
 
 #### What we need to see:
-1.       Bachelor’s degree in computer science/engineering or equivalent experience;
-2.       Experience creating training content for developers;
-3.       Comfortable presenting to technical audiences 
-4.       Strong relationship management skills; ability to handle multiple projects simultaneously 
-5.       Ability to work cross-functionally across many levels of a matrixes organization  
-6.       Willing to travel (45-60%)
-7.       Experience in Machine Learning or Deep Learning is a plus
+1. Bachelor’s degree in computer science/engineering or equivalent experience;
+2. Experience creating training content for developers;
+3. Comfortable presenting to technical audiences 
+4. Strong relationship management skills; ability to handle multiple projects simultaneously 
+5. Ability to work cross-functionally across many levels of a matrixes organization  
+6. Willing to travel (45-60%)
+7. Experience in Machine Learning or Deep Learning is a plus
+
+##### Contact: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
