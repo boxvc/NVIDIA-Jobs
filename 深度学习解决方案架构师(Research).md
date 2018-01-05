@@ -1,5 +1,5 @@
 # 2018-NVIDIA-Deep-Learning-Positions
-## 深度学习解决方案架构师（Research）
+### 深度学习解决方案架构师（Research）
 ### 要求:
 1. 熟悉深度学习/机器学习相关算法
 2. 有竞赛经历或者发表相关论文
