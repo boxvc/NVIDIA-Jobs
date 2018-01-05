@@ -17,3 +17,5 @@ NVIDIA is looking for New College Grads with exceptional numerical and software 
 •	Good organization skills, with a logical approach to problem solving, good time management and task prioritization skills.
 •	Proactive and able to work with a minimum of supervision.
 •	Strong written and oral communication skills in English.
+
+#### Contact: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
