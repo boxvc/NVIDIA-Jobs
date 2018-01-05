@@ -1,5 +1,5 @@
 ## 2018-NVIDIA-Deep-Learning-Positions
-## 深度学习/高性能计算解决方案架构师
+### 深度学习/高性能计算解决方案架构师
 
 #### 目前NVIDIA在中国热招解决方案架构师， 该岗位致力于协同客户经理将NVIDIA最新的深度学习/高性能计算解决方案与技术带给我们的客户, 帮助客户通过实施NVIDIA技术解决方案来提升整体效率
 
@@ -25,3 +25,5 @@
 1. Experience with Deep Learning frameworks and tools, eg. Digits, Caffe, Torch, TensorFlow.
 2. CUDA optimization experience.
 3. Extensive experience designing and deploying large scale HPC and enterprise computing systems.
+
+#### Contact: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
