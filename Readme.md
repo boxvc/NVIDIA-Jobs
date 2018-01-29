@@ -4,9 +4,19 @@
 |[深度学习解决方案架构师(Research)](/深度学习解决方案架构师(Research).md)|北京|不限|CUDA/DL Research Background|
 |[深度学习软件工程师](/深度学习工程师.md)|北京  上海|不限|深度学习或CUDA/OpenCL并行计算相关经验|
 |[CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)|上海|不限|CUDA/DL相关经验|
+|[Deep Learning Developer Technology Engineer](/Deep_Learning_Developer_Technology_Engineer.md)|上海|不限|有机器人/强化学习相关经验|
+
+|招聘职位:smile:|工作地点|工作经验|职位要求 (请点击职位名称查看详细JD)|
+|-------|:--------:|:-------:|-------|
 |[深度学习性能分析架构师](/深度学习性能分析架构师.md)|上海|1-3年|C/C++编程强，熟悉计算机体系结构|
 |[GPU SM ARCHITECT](/GPU_SM_ARCHITECT.md)|上海|不限|C/C++编程强，熟悉计算机体系结构|
+
+|招聘职位:smile:|工作地点|工作经验|职位要求 (请点击职位名称查看详细JD)|
+|-------|:--------:|:-------:|-------|
 |[无人驾驶系统工程师](/无人驾驶系统工程师.md)|上海|1年以上|较强的C/C++编程能力，有性能调优/驱动开发经验为佳|
 |[Senior Solutions Architect-Autonomous Driving](/Senior_Solutions_Architect-Autonomous_Driving.md)|上海|3年以上|英文口语好，有面向客户经验为佳|
+
+|招聘职位:smile:|工作地点|工作经验|职位要求 (请点击职位名称查看详细JD)|
+|-------|:--------:|:-------:|-------|
 |[深度学习培训讲师](/深度学习培训讲师.md)|北京|不限|英文口语好，有助教或讲师经验为佳|
-|[Deep Learning Developer Technology Engineer](/Deep_Learning_Developer_Technology_Engineer.md)|上海|不限|有机器人/强化学习相关经验|
+
