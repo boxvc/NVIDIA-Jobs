@@ -26,4 +26,4 @@
 2. CUDA optimization experience.
 3. Extensive experience designing and deploying large scale HPC and enterprise computing systems.
 
-#### Contact: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
+#### Contact: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/ :blush:
