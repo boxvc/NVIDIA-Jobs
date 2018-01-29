@@ -7,3 +7,4 @@
 |[CUDA Algorithm Engineer](/CUDA Algorithm Engineer.md)|上海|不限|CUDA/DL相关经验|
 |[无人驾驶系统工程师](/Autonomous Driving System Engineer.md)|上海|1年以上|较强的C/C++编程能力，有性能调优/驱动开发经验为佳|
 |[Senior Solutions Architect - Autonomous Driving](/Senior Solutions Architect - Autonomous Driving.md)|上海|3年以上|英文口语好，有面向客户经验为佳|
+|[深度学习培训讲师](/深度学习培训讲师.md)|北京|不限||
