@@ -19,3 +19,6 @@
 |[GPU SM ARCHITECT](/GPU_SM_ARCHITECT.md)|上海|熟悉计算机体系结构，熟悉C/C++编程|
 |GPU Compute Architect|上海|熟悉计算机体系结构，较强的C++编程与调试能力|
 
+
+
+#### 对以上职位感兴趣的朋友，欢迎直接发送英文简历至sbai@nvidia.com申请
