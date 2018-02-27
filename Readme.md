@@ -4,7 +4,7 @@
 |-------|:--------:|-------|
 |[深度学习解决方案架构师(Research)](/深度学习解决方案架构师(Research).md)|北京|CUDA/DL Research Background|
 |[深度学习软件工程师](/深度学习工程师.md)|北京  上海|深度学习或CUDA/OpenCL并行计算相关经验|
-|[深度学习解决方案架构师](/深度学习解决方案架构师.md)|北京|深度学习相关经验，有面向客户经验为佳|
+|[深度学习解决方案架构师](/深度学习解决方案架构师.md)|北京 |深度学习相关经验，有面向客户经验为佳|
 |[深度学习性能分析架构师](/深度学习性能分析架构师.md)|上海|有CUDA代码调优经验（或者SIMD等架构的调优经验）；熟悉矩阵计算的优化和加速；较强编程能力、算法分析和实现；熟悉计算机体系结构|
 |[CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)|上海|CUDA/DL相关经验|
 |[Deep Learning Developer Technology Engineer](/Deep_Learning_Developer_Technology_Engineer.md)|上海|有机器人/强化学习相关经验|
