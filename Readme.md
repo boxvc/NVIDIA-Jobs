@@ -12,13 +12,7 @@
 |[深度学习解决方案架构师](/深度学习解决方案架构师.md)| 北京 |深度学习相关经验，有面向客户经验为佳 (Currently pending, Restart in April, 2018)|
 |[深度学习软件工程师](/深度学习工程师.md)| 北京 上海 |深度学习或CUDA/OpenCL并行计算相关经验 (Currently pending, Restart in April, 2018)|
 
-### -软件架构/研发-
 
-|:pushpin:   招聘职位|地点|职位要求 (请点击职位名称查看详细JD)|
-|-------|:--------:|-------|
-|[GPU SM ARCHITECT](/GPU_SM_ARCHITECT.md)|上海|熟悉计算机体系结构，熟悉C/C++编程|
-
-#
 
 #### （以上职位对工作年限没有最低要求）对以上职位感兴趣的朋友，欢迎直接发送英文简历至sbai@nvidia.com申请
 
