@@ -1,5 +1,5 @@
 ### -深度学习相关职位-
-#### Last Updated On: 3/20/2018
+#### Last Updated On: 3/29/2018
 
 |:pushpin:   招聘职位|地   点|职位要求 (请点击职位名称查看详细JD)|
 |-------|:--------:|-------|
@@ -11,8 +11,8 @@
 
 |:pushpin:   招聘职位|地   点|职位要求 (请点击职位名称查看详细JD)|
 |-------|:--------:|-------|
-|[深度学习解决方案架构师(Research)](/深度学习解决方案架构师(Research).md)| 北京 |CUDA/DL Research Background (Currently pending, Restart in April, 2018)|
-|[深度学习解决方案架构师](/深度学习解决方案架构师.md)| 北京 |深度学习相关经验，有面向客户经验为佳 (Currently pending, Restart in April, 2018)|
+|[深度学习解决方案架构师(Research)](/深度学习解决方案架构师(Research).md)| 北京 |CUDA/DL Research Background (Currently pending, Restart in May, 2018)|
+|[深度学习解决方案架构师](/深度学习解决方案架构师.md)| 北京 |深度学习相关经验，有面向客户经验为佳 (Currently pending, Restart in May, 2018)|
 
 
 
