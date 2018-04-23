@@ -3,9 +3,7 @@
 
 |:pushpin:   招聘职位|地   点|职位要求 (请点击职位名称查看详细JD)|
 |-------|:--------:|-------|
-|[Senoir Architect (C-Model and FPGA)](/Senior Pre-silicon C Model and FPGA Prototype Architect.md)| 上海 |•	3 years+ work experience
-•	Familiar with compute architecture, good at C++/C programming
-•	ASIC OR FPGA background is a plus|
+|[Senoir Architect (C-Model and FPGA)](/Senior Pre-silicon C Model and FPGA Prototype Architect.md)| 上海 |•	3 years+ work experience •	Familiar with compute architecture, good at C++/C programming •	ASIC OR FPGA background is a plus|
 |[深度学习性能分析架构师](/深度学习性能分析架构师.md)| 上海 |有CUDA代码或SIMD等架构调优经验；熟悉矩阵计算的优化和加速；较强编程能力、算法分析和实现；熟悉计算机体系结构|
 |[CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)| 上海|CUDA/DL相关经验|
 |[Deep Learning Developer Technology Engineer](/Deep_Learning_Developer_Technology_Engineer.md)| 上海|有机器人/强化学习相关经验|
