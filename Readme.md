@@ -9,5 +9,5 @@
 #### 7. 深度学习培训讲师:[Deep Learning Instructor for DLI](/深度学习培训讲师.md)
 
 ____
-#### 对以上职位感兴趣的朋友，欢迎直接发送英文简历至sbai@nvidia.com申请 :blush:
+#### 如果您或您的朋友对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com咨询申请 :blush:
 
