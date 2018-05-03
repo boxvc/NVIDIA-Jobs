@@ -2,11 +2,6 @@
 
 #### 1. 深度学习性能分析架构师: [Deep Learning Performance Architect](/深度学习性能分析架构师.md)
 #### 2. CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
-
-##### 工作职责：
-    针对架构和算法特征开发汇编级或者CUDA代码
-    优化cuBlas、cuDNN、TensorRT的核心kernel
-    针对未来GPU架构开发原型代码，推进下一代架构的设计和优化
 ##### 基本要求：
     严谨的逻辑思维和分析能力
     较强编程能力(C/C++)、算法分析和实现
