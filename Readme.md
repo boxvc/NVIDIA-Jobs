@@ -4,15 +4,15 @@
 #### CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
 
 ##### 工作职责：
-- 针对架构和算法特征开发汇编级或者CUDA代码
-- 优化cuBlas、cuDNN、TensorRT的核心kernel；
-- 针对未来GPU架构开发原型代码，推进下一代架构的设计和优化；
+    针对架构和算法特征开发汇编级或者CUDA代码
+    优化cuBlas、cuDNN、TensorRT的核心kernel；
+    针对未来GPU架构开发原型代码，推进下一代架构的设计和优化；
 ##### 基本要求：
-- 严谨的逻辑思维和分析能力
-- 较强编程能力(C/C++)、算法分析和实现
-- 熟悉计算机体系结构/深度学习算法优先
-- 有CUDA代码调优经验（或者SIMD等架构的调优经验）优先
-- 熟悉矩阵计算的优化和加速优先
+    严谨的逻辑思维和分析能力
+    较强编程能力(C/C++)、算法分析和实现
+    熟悉计算机体系结构/深度学习算法优先
+    有CUDA代码调优经验（或者SIMD等架构的调优经验）优先
+    熟悉矩阵计算的优化和加速优先
 
 ## 2. Senior Architect
 #### 资深架构师: [Senoir Architect (C-Model and FPGA)](/Senior_Pre-silicon_C-Model_and_FPGA_Prototype_Architect.md)
@@ -39,5 +39,5 @@
 - 计算机软件背景
 - 有助教或讲师经验
 
-#### 对以上职位感兴趣的朋友，欢迎直接发送英文简历至sbai@nvidia.com申请 :)
+#### 对以上职位感兴趣的朋友，欢迎直接发送英文简历至sbai@nvidia.com申请 :blush:
 
