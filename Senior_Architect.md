@@ -1,4 +1,4 @@
-#### 2018 NVIDIA China Hiring
+
 
 ### Senior Pre-Silicon C-Model and FPGA Prototype Architect - Shanghai, China
 ___
