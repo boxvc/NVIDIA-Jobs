@@ -1,8 +1,6 @@
 #### 2018-NVIDIA-Deep-Learning-Positions
 
-### CUDA Algorithm Engineer
-
-#### Location: Shanghai
+## CUDA Algorithm Engineer - Shanghai, China
 
 Would you like to work with the world’s first class CUDA and deep learning experts?
 Do you want to be the part of Artificial Intelligence Revolution?
