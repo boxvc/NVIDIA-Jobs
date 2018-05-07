@@ -10,26 +10,26 @@ In this role you will be interacting with internal stakeholders, users, and memb
 
 #### What you’ll be doing
 
-o	Develop algorithms for deep learning, data analytics, machine learning, or scientific computing
-o	Analyze performance of GPU implementations
-o	Collaborate with team members and other partners
-o	Occasional travel to conferences and for customer visits may be required
+- Develop algorithms for deep learning, data analytics, machine learning, or scientific computing
+- Analyze performance of GPU implementations
+- Collaborate with team members and other partners
+- Occasional travel to conferences and for customer visits may be required
 
 #### What we need to see
 
-o	Masters or equivalent experience in Computer Science, Artificial Intelligence, Applied Math, or related field
-o	Excellent C/C++ programming, debugging, performance analysis, and test design skills
-o	Strong algorithms and mathematical fundamentals
-o	Ability to work independently and lead your own development effort
-o	Good interpersonal skills
+- Masters or equivalent experience in Computer Science, Artificial Intelligence, Applied Math, or related field
+- Excellent C/C++ programming, debugging, performance analysis, and test design skills
+- Strong algorithms and mathematical fundamentals
+- Ability to work independently and lead your own development effort
+- Good interpersonal skills
 
 #### Ways to stand out from the crowd
 
-o	Deep learning algorithms
-o	Knowledge of CPU and/or GPU architecture
-o	Experience with one or more of: assembly/low level programming, performance tuning, Python
-o	GPU programming (CUDA or OpenCL) desired but not required
-o	Exposure to floating-point arithmetic
+- Deep learning algorithms
+- Knowledge of CPU and/or GPU architecture
+- Experience with one or more of: assembly/low level programming, performance tuning, Python
+- GPU programming (CUDA or OpenCL) desired but not required
+- Exposure to floating-point arithmetic
 
 With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and talented people in the world working with us and our engineering teams are fast-growing fast. If you're a creative and autonomous computer scientist with a genuine real passion for parallel computing, we want to hear from you.
 
