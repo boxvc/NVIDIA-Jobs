@@ -7,9 +7,9 @@
 ____
 ### Beijing:
 #### 5. 深度学习解决方案架构师: [Deep Learning Solution Architect](/深度学习解决方案架构师.md)
-#### 6. 深度学习解决方案架构师（Research）:[Deep Learning Research Scientist](/深度学习解决方案架构师(Research).md)
+#### 6. 深度学习解决方案架构师(Research Scientist):[Deep Learning Research Scientist](/深度学习解决方案架构师(Research).md)
 #### 7. 深度学习培训讲师:[Deep Learning Instructor for DLI](/深度学习培训讲师.md)
 
 ____
-#### 如果您或您的朋友对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com咨询申请 :blush:
+#### 如果您或您的朋友对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请或咨询 :blush:
 
