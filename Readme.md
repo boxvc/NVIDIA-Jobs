@@ -2,7 +2,7 @@
 ### Shanghai:
 #### 1. 深度学习性能分析架构师: [Deep Learning Performance Architect](/深度学习性能分析架构师.md)
 #### 2. CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
-#### 3. 资深架构师: [Senoir Architect (C-Model and FPGA)](/Senior_Pre-silicon_C-Model_and_FPGA_Prototype_Architect.md)
+#### 3. 资深架构师: [Senoir Architect (C-Model and FPGA)](/Senior_Architect.md)
 #### 4. 无人驾驶工程师: [Autonomous Driving System Engineer](/无人驾驶系统工程师.md)
 ____
 ### Beijing:
