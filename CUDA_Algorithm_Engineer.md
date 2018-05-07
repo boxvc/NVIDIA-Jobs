@@ -1,4 +1,4 @@
-#### 2018-NVIDIA-Deep-Learning-Positions
+
 
 ## CUDA Algorithm Engineer - Shanghai, China
 
