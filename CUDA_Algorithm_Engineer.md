@@ -31,9 +31,9 @@ In this role you will be interacting with internal stakeholders, users, and memb
 - GPU programming (CUDA or OpenCL) desired but not required
 - Exposure to floating-point arithmetic
 
-With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and talented people in the world working with us and our engineering teams are fast-growing fast. If you're a creative and autonomous computer scientist with a genuine real passion for parallel computing, we want to hear from you.
+###### With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and talented people in the world working with us and our engineering teams are fast-growing fast. If you're a creative and autonomous computer scientist with a genuine real passion for parallel computing, we want to hear from you.
 
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+###### We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
 
 #### 简历投递email: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
