@@ -35,4 +35,7 @@ NVAIL (NVIDIA AI Labs) leads development of technical solutions and architectura
 - CUDA optimization experience.
 - Extensive experience designing and deploying large scale HPC and enterprise computing systems.
 
+###### 关于 NVIDIA
+###### NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验。
 
+###### 我们是Glassdoor选出的“最佳工作场所” 我们是《人物》选出的“年度关爱公司 ” 我们是《财富》选出的“全球最受赞赏公司”  我们这里还有“评价最高的CEO”  我们，就是AI计算的引领者NVIDIA, 梦想的机会就在眼前 ,你来不来？
