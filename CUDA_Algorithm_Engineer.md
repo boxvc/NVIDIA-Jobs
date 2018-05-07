@@ -36,4 +36,4 @@ With highly competitive salaries and a comprehensive benefits package, NVIDIA is
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
 
-#### email: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
+#### 简历投递email: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
