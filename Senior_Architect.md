@@ -1,4 +1,3 @@
-
 We are looking for a Senior Pre-Silicon C-Model and FPGA Prototype Architect
 Location: Shanghai
 ---
