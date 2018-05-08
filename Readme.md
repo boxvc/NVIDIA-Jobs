@@ -1,4 +1,4 @@
-
+![NVIDIA-SMALL-LOGO](https://www.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/images/NVIDIA-Logo.svg)
 ### Shanghai:
 #### 1. 深度学习性能分析架构师: [Deep Learning Performance Architect](/深度学习性能分析架构师.md)
 #### 2. CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
