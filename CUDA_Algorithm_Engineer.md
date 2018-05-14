@@ -35,5 +35,5 @@ In this role you will be interacting with internal stakeholders, users, and memb
 
 ###### We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
-
 #### 简历投递email: sbai@nvidia.com or Linkedin: https://www.linkedin.com/in/xuebai52/
+#### This position will report to foreign manager directly, so fluent English speaking is required.
