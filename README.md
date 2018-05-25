@@ -1,4 +1,5 @@
 ![NVIDIA-SMALL-LOGO](https://www.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/images/NVIDIA-Logo.svg)
+____
 ### Shanghai:
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/深度学习性能分析架构师.md)
 #### JR1909800 - CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
@@ -12,5 +13,5 @@ ____
 
 ____
 #### 如果您对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请/咨询, 欢迎推荐 :blush:
-
+____
 ![nvidia-logo](https://blogs.nvidia.com/wp-content/uploads/2018/04/23-deepcore-orbit-star.jpg)
