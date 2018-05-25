@@ -12,6 +12,6 @@ ____
 #### JR1911526 - 深度学习培训讲师:[Deep Learning Instructor for DLI](/深度学习培训讲师.md)
 
 ____
-#### 如果您对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请/咨询, 欢迎推荐 :blush:
+### 如果您对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请/咨询, 欢迎推荐 :blush:
 ____
 ![nvidia-logo](https://blogs.nvidia.com/wp-content/uploads/2018/04/23-deepcore-orbit-star.jpg)
