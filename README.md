@@ -5,7 +5,7 @@ ____
 #### JR1909800 - CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
 #### JR1914374 - 资深架构师: [Senoir Architect (C-Model and FPGA)](/Senior_Architect.md)
 #### JR1913452 - 汽车系统开发工程师: [Automotive Solution Engineer](/Automotive_Solution_Engineer.md)
-____
+
 ### Beijing:
 #### JR1903966 - 深度学习解决方案架构师: [Deep Learning Solution Architect](/深度学习解决方案架构师.md)
 #### JR1908220 - 深度学习解决方案架构师(Research Scientist):[Deep Learning Research Scientist](/深度学习解决方案架构师(Research).md)
