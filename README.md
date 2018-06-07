@@ -3,9 +3,9 @@ ____
 ### Shanghai:
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/深度学习性能分析架构师.md)
 #### JR1909800 - CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md)
-#### JR1914374 - 资深架构师: [Senoir Architect (C-Model and FPGA)](/Senior_Architect.md)
 #### JR1915446 - GPU功能验证: [GPU Architect (Functional Verification)](/GPU_Architect.md)
 #### JR1913452 - 汽车系统开发工程师: [Automotive Solution Engineer](/Automotive_Solution_Engineer.md)
+#### JR1908697 - 无人驾驶系统工程师: [Autonomous Driving System Engineer](/Autonomous_Driving_System_Engineer.md)
 
 
 ### Beijing Or Shanghai:
