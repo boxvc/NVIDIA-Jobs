@@ -9,7 +9,7 @@ ____
 #### JR1913452 - 无人驾驶工程师: [Automotive Solution Engineer](/Automotive_Solution_Engineer.md)
 #### JR1908697 - 无人驾驶系统工程师: [Autonomous Driving System Engineer](/无人驾驶系统工程师.md)
 
-#### JR1915444 - 自身深度学习软件工程师：[Deep Learning Software Engineering Leader](Deep_Learning_Software_Engineering_Leader.md)
+#### JR1915444 - Deep Learning Software Engineering Leader：[Deep Learning Software Engineering Leader](Deep_Learning_Software_Engineering_Leader.md)
 #### JR1903966 - 深度学习解决方案架构师: [Deep Learning Solution Architect](/深度学习解决方案架构师.md)
 #### JR0000000 - [高性能计算研发工程师及机器学习算法工程师](/高性能计算研发工程师及机器学习算法工程师.md)
 
