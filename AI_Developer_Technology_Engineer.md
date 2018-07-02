@@ -64,4 +64,5 @@
 ###### With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and talented people on the planet working with us and our engineering teams are expanding fast. If you're a creative and autonomous computer scientist with a genuine passion for parallel computing, we want to hear from you.
 ----
 如果您感兴趣的话， 可以直接发送英文简历至sbai@nvidia.com :blush:
+
 Please send your updated English resume to sbai@nvidia.com if you are interested in the position above. Thanks~
