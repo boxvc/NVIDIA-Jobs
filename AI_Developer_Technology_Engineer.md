@@ -1,4 +1,4 @@
-#### 招聘的职位为：AI Developer Technology Engineer
+#### Position：AI Developer Technology Engineer
 
 #### 工作地点可以为:北京/上海/深圳/首尔
 
