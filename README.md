@@ -8,6 +8,7 @@
 #### JR1903966 - 深度学习解决方案架构师: [Deep Learning Solution Architect](/深度学习解决方案架构师.md) - 北京，上海
 #### JR1911526 - 深度学习培训讲师:[Deep Learning Instructor for DLI](/深度学习培训讲师.md) - 北京
 #### JR1908220 - 深度学习解决方案架构师(Research Scientist):[Deep Learning Research Scientist](/深度学习解决方案架构师(Research).md) - 北京
+#### JR1916036 - [Video Analytics Algorithm Development Leader](/Video_Analytics_Algorithm_Development_Leader.md) - 上海
 ----
 ### GPU架构类：
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/深度学习性能分析架构师.md) - 上海
