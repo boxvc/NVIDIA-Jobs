@@ -3,8 +3,6 @@
 
 ##### QNX软件工程师
 
-##### AutoSAR软件工程师
-
 ##### Hypervisor/Virtualization软件工程师
 
 ##### Linux嵌入式软件工程师
