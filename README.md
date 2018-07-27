@@ -14,12 +14,13 @@
 ### GPU架构类：
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/Deep_Learning_Performance_Architect.md) - 上海，新竹
 #### JR1909800 - CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md) - 上海
-#### JR1915446 - GPU功能验证: [GPU Architect (Functional Verification)](/GPU_Architect.md) - 上海
+#### JR1916540 - [Senior Tegra System Arch](/Senior-Tegra-System-Arch.md) - 上海
 ----
 ### 无人驾驶类：
 #### JR1913125 - [Senior Software Program Manager - Customer Program](Senior_Software_Program_Manager_Customer_Program.md) - 上海
 #### JR1913452 - 汽车系统工程师: [Automotive Solution Engineer](/Automotive_Solution_Engineer.md) - 上海
 #### JR1908697 - 无人驾驶系统工程师: [Autonomous Driving System Engineer](/无人驾驶系统工程师.md) - 上海
+
 ----
 ### 如果您对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请/咨询, 欢迎推荐 :blush:
 ----
