@@ -15,6 +15,7 @@
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/Deep_Learning_Performance_Architect.md) - 上海，新竹
 #### JR1909800 - CUDA算法工程师: [CUDA Algorithm Engineer](/CUDA_Algorithm_Engineer.md) - 上海
 #### JR1916540 - [Senior Tegra System Arch](/Senior-Tegra-System-Arch.md) - 上海
+#### JR1916537 - [Senior Arch Engineer](/Senior-Arch-Engineer.md) - 上海
 ----
 ### 无人驾驶类：
 #### JR1913125 - [Senior Software Program Manager - Customer Program](Senior_Software_Program_Manager_Customer_Program.md) - 上海
