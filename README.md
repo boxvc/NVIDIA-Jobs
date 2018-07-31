@@ -1,7 +1,7 @@
 ## 2018年热招岗位推荐：
 
 ### 深度学习类:
-#### JR1915839 - [高性能计算研发工程师及机器学习算法工程师](/高性能计算研发工程师及机器学习算法工程师.md) - 北京，上海，深圳 For NCG Only
+#### JR1915839 - [高性能计算研发工程师及机器学习算法工程师](/高性能计算研发工程师及机器学习算法工程师.md) -NCG Position - 北京，上海，深圳 
 #### JR1915998 - [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 北京，上海，深圳，首尔
 #### JR1915444 - [Deep Learning Software Engineering Leader](Deep_Learning_Software_Engineering_Leader.md) - 上海
 #### JR1915407 - [Senior Data Analytics Software Engineer - AI Cloud](Senior_Data_Analytics_Software_Engineer.md) - 上海
