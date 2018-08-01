@@ -1,5 +1,5 @@
 ### We are now looking for a Video Analytics Algorithm Development Leader
-#### Location: Shanghai
+#### Location: Shanghai OR Beijing
 ----
 #### Nvidia is looking for Software Leader for developing deep learning and computer vision algorithms and applications for Intelligent Video Analytics. This challenging role will require someone who deeply understands and can architect algorithms that advance the application of artificial intelligence and machine learning to the Intelligent Video Analytics and Embedded market. Practical experience in the use of machine learning/deep learning along with a good knowledge of computer vision techniques will be preferable. Experience in building a team of algorithm developers will be critical.
 
