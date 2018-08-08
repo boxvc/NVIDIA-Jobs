@@ -9,7 +9,7 @@
 
 GPU 技术大会将提供众多社交机会，通过“与专家沟通和交流”、亲临实验室体验和参观展览、海报展示等，您将有机会与思想领袖与行业翘楚面对面的畅享交流。 
 
-#### 立即注册http://gtc.event.com.cn/reg.asp?e=sbai@nvidia.com&code=SFSBAI，以确保获得参加席位。 
+#### 立即注册http://gtc.event.com.cn/reg.asp?e=sbai@nvidia.com&code=SFSBAI
 #### 请使用我的专邀请优惠代码 SFSBAI ，即可享受额外 25% 的优惠（常规价格/早鸟价格）。
 
 
