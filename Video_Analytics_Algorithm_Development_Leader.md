@@ -1,4 +1,9 @@
 ### We are now looking for a Video Analytics Algorithm Development Leader
+
+#### 现阶段NVIDIA 在中国组建深度学习语音分析算法团队-热招 Video Analytics Algorithm Development Leader/Manager
+
+#### 汇报给: Parthasarathy Sriram-- Chief Systems Software Architect for Video Analytics Platforms & V.P. Of Engineering at NVIDIA
+
 #### Location: Shanghai OR Beijing
 ----
 #### Nvidia is looking for Software Leader for developing deep learning and computer vision algorithms and applications for Intelligent Video Analytics. This challenging role will require someone who deeply understands and can architect algorithms that advance the application of artificial intelligence and machine learning to the Intelligent Video Analytics and Embedded market. Practical experience in the use of machine learning/deep learning along with a good knowledge of computer vision techniques will be preferable. Experience in building a team of algorithm developers will be critical.
