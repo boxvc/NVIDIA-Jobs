@@ -1,8 +1,8 @@
 
 
-### Autonomous Driving System Engineer - Shanghai, China
+### 自动驾驶系统软件工程师 - Shanghai
 
-#### 职位描述/工作职责 (自动驾驶系统软件工程师):
+#### 职位描述/工作职责:
 
 - 开发并维护自驾车系统软件
 - 融合车载传感器(Camera，LIDAR，RADAR，GPS，IMU，CAN etc)信息以实现车辆在复杂环境下的自动，安全，舒适驾驶
@@ -20,6 +20,7 @@
 - 有良好的分析，沟通，组织和团队协作能力以共同解决实际问题
 - 以下项目经验者优先：Linux/QNX，内核开发，移动机器人，计算机视觉，深度学习，GPU软件开发
 ___
+### Autonomous Driving System Engineer - Shanghai, China
 
 NVIDIA is hiring System Engineers for its Autonomous Vehicle teams. As a member of our team you will be responsible for developing and maintaining software to drive the car, given various sensor input devices including Camera’s, LIDAR, RADAR, GPS, IMU and others on Vehicle CAN, work with different teams here to transform the information into driving the car with the best experience. You will work with different teams on all sort of challenging problems for autonomous driving including computer vision, deep learning, object tracking, car controlling. You will help build the software and make it work flawlessly and safely on our driving platform. You are expected to have strong communication, organizational, and analytical skills. Solid understanding and strong System software experience is a requirement. Experience with GPU technology, image processing, computer vision, and multimedia are highly valued. Familiarity with deep learning / artificial intelligence is desirable.
 
