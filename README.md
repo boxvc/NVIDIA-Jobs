@@ -16,7 +16,7 @@
 #### JR1916540 - [Senior Tegra System Arch](/Senior-Tegra-System-Arch.md) - 上海
 #### JR1916537 - [Senior Arch Engineer](/Senior-Arch-Engineer.md) - 上海
 #### JR1916864 - [GPU SM Architect](/GPU-SM-Architect.md) - 上海
-#### JR1917759 - [Deep Learning HW Architect](/Deep-Learning-HW-Architect.md) - 上海
+#### JR1917759 - [Deep Learning HW Architect(NVDLA)](/Deep-Learning-HW-Architect.md) - 上海
 ----
 ### 无人驾驶类：
 #### JR1913125 - [Senior Software Program Manager - Customer Program](Senior_Software_Program_Manager_Customer_Program.md) - 上海
