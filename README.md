@@ -13,7 +13,6 @@
 ----
 ### GPU架构类：
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/Deep_Learning_Performance_Architect.md) - 上海，新竹
-#### JR1916540 - [Senior Tegra System Arch](/Senior-Tegra-System-Arch.md) - 上海
 #### JR1916537 - [Senior Arch Engineer](/Senior-Arch-Engineer.md) - 上海
 #### JR1916864 - [GPU SM Architect](/GPU-SM-Architect.md) - 上海
 #### JR1917759 - [Deep Learning HW Architect - NVDLA](/Deep-Learning-HW-Architect.md) - 上海
