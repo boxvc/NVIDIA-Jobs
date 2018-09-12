@@ -5,6 +5,8 @@
 
 英伟达在2017年9月正式开源深度学习加速器，NVDLA ，即 NVIDIA Deep Learning Accelerator ，是英伟达开源的一个开放框架，以促进设计深度学习推断加速的标准方法。 通过其模块化架构，NVDLA 具有可扩展性和高度可配置性，旨在简化集成性和可移植性（灵活性）。 
 
+http://nvdla.org/
+
 #### What you’ll be doing:
 - Building next generation of NVDLA for both internal usage and open source
 - Work on Deep-Learning architecture, algorithms, and software development
