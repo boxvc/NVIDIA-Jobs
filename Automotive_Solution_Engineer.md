@@ -1,9 +1,8 @@
 当无人驾驶开始风靡世界，每个人都应参与到这场革命中来。为了扩展中国区无人驾驶业务，NVIDIA正在国内成立无人驾驶解决方案团队，该团队需要如下人才：
 
 
-##### QNX软件工程师
-
-##### Hypervisor/Virtualization软件工程师
+##### 精通 Linux Kernel/BSP/Drivers 
+##### 有 QNX BSP/ Hypervisor/ Virtualization经验更佳
 
 #### 以上所有职位均需要具有多年汽车行业开发经验，工作地点：上海。
 
