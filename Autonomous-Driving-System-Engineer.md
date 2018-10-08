@@ -19,6 +19,10 @@
 - 了解物体检测，目标跟踪，数据关联等功能的常用算法
 - 有良好的分析，沟通，组织和团队协作能力以共同解决实际问题
 - 以下项目经验者优先：Linux/QNX，内核开发，移动机器人，计算机视觉，深度学习，GPU软件开发
+
+
+
+#### 简历投递: sbai@nvidia.com or contact Linkedin: https://www.linkedin.com/in/xuebai52/
 ___
 英文JD如下
 ### Autonomous Driving System Engineer - Shanghai, China
@@ -49,5 +53,4 @@ NVIDIA is hiring System Engineers for its Autonomous Vehicle teams. As a member 
 
 ###### NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative, autonomous and love a challenge, we want to hear from you!
 
-#### 简历投递: sbai@nvidia.com or contact Linkedin: https://www.linkedin.com/in/xuebai52/
 ![nvidia-drive-partners](https://blogs.nvidia.com/wp-content/uploads/2018/01/nvidia-drive-partners.png)
