@@ -12,7 +12,34 @@ ___
 * 有CUDA代码调优经验（或者SIMD等架构的调优经验） 优先
 * 熟悉矩阵计算的优化和加速优先
 
-详细JD如下 简历投递：sbai@nvidia.com
+简历投递：sbai@nvidia.com
+
+----
+### 基础架构师方向 - Shanghai, Hsinchu
+
+#### 关键词:
+•	基础架构 (Infrastructure)
+•	芯片架构 (Architecture) 
+•	深度学习 (Deep Learning)
+
+#### [你会做些什么]
+
+- 学习下一代GPU计算架构，调研深度学习应用对基础架构工具的需求
+- 设计和开发灵活稳定的基础架构工具
+- 提高在不同平台(例如：GPU 性能模拟器Performance simulator， 仿真器 Emulator和硬件Silicon) 上计算应用测试效率
+
+#### [我们想要看到这样的你]
+
+- 有较强的编程能力(C++), 有CUDA经验者优先
+- 有经验在以下一项或多项技术领域
+a.	GPU或通用CPU架构
+b.	GPU或通用驱动架构
+c.	编译器
+d.	操作系统
+
+简历投递：sbai@nvidia.com
+
+----
 ### Deep Learning Performance Architect - Shanghai, Hsinchu
 
 Are you obsessed with performance?  Do you like to work at the intersection of hardware and software?  Do you live and breathe deep learning?  NVIDIA is seeking world class programmers and performance architects who love to squeeze out every cycle of performance from deep learning codes.  In this role, you will write code that ships in our deep learning libraries, as well as guide the direction of our future GPU architectures.  This position offers the opportunity to have real impact in a fast-moving, technology-focused company.
