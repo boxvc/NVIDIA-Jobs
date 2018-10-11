@@ -14,9 +14,9 @@ ___
 
 简历投递：sbai@nvidia.com
 
-----
-### 基础架构师方向 - Shanghai, Hsinchu
 
+### 基础架构师方向 - Shanghai, Hsinchu
+----
 #### 关键词:
 •	基础架构 (Infrastructure)
 •	芯片架构 (Architecture) 
