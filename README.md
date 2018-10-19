@@ -1,4 +1,5 @@
 ## 2018年热招岗位推荐：
+#### 简历投递：sbai@nvidia.com
 
 ### 深度学习类:
 #### JR1915839 - [高性能计算研发工程师及机器学习算法工程师](/Machine-Learning-Solution-Engineer.md) - 北京，上海，深圳 
