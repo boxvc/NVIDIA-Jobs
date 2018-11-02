@@ -1,4 +1,4 @@
-## Senior Arch Engineer- Shanghai
+## Senior Arch Engineer - Shanghai
 ----
 
 #### 工作内容：
