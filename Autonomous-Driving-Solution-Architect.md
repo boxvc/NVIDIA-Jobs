@@ -10,9 +10,8 @@ Our work is at the center of the most consequential mega-trends in technology �
 
 NVIDIA is at the forefront of the automotive revolution, powering many key solutions for major car manufacturers. We are engaged in the key areas of automotive business where visual computing & AI matters: AI Cockpit, ADAS and Autonomous cars.
 
-#### What you will be doing: 
+What you will be doing: Come join our automotive team in China. We are now looking for an Automotive Solutions Architect to work with Chinese customers by using your expertise in Autonomous Driving and deep learning.
 
-Come join our automotive team in China. We are now looking for an Automotive Solutions Architect to work with Chinese customers by using your expertise in Autonomous Driving and deep learning.
 #### What you’ll be doing: 
 As an ambassador of the NVIDIA Automotive Team, the Automotive Solution Architect is accountable for driving new customer engagements by: ​
 - Being an industry thought leader on integrating NVIDIA technologies like AI, deep learning into Automotive for AI cockpit & self-driving vehicles.
