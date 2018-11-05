@@ -16,13 +16,13 @@ NVIDIA 多媒体设计中心最早成立于2006年初，经过10多年的耕耘�
 
 #### [你会做些什么]
 - Tegra MultiEngine 验证:
-- 主要集中在计算机视觉(CV)及自动驾驶(AV)相关feature的full chip level功能验证。
-- 需要理解SoC架构，CV/DL IP软硬件架构，针对性的开发driver及一套可以支持多个IP协同工作的framework。
-- 构建full chip level test去模拟真实AV/CV pipeline，运行在Cmodel/RTL及silicon上，完成功能测试。
+  - 主要集中在计算机视觉(CV)及自动驾驶(AV)相关feature的full chip level功能验证。
+  - 需要理解SoC架构，CV/DL IP软硬件架构，针对性的开发driver及一套可以支持多个IP协同工作的framework。
+  - 构建full chip level test去模拟真实AV/CV pipeline，运行在Cmodel/RTL及silicon上，完成功能测试。
 - Tegra Applied Architecture:
-- 开发一套infrastructure用以profile AV 应用, capture/replay AV worload用于arch研究。
-- Profile AV应用, 寻找性能瓶颈，提出优化策略。
-- 研究SoC pipeline schedule策略，用于定义下一代Tegra SoC.
+  - 开发一套infrastructure用以profile AV 应用, capture/replay AV worload用于arch研究。
+  - Profile AV应用, 寻找性能瓶颈，提出优化策略。
+  - 研究SoC pipeline schedule策略，用于定义下一代Tegra SoC.
 
 #### [我们想要看到这样的你]
 - 电子、自动化、计算机等相关专业，硕士及以上学历。
