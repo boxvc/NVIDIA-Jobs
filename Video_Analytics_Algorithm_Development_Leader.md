@@ -1,4 +1,4 @@
-### We are now looking for a Video Analytics Algorithm Development Leader
+### Video Analytics Algorithm Development Leader
 
 #### 现阶段NVIDIA 在中国组建深度学习语音分析算法团队-热招 Video Analytics Algorithm Development Leader/Manager
 
