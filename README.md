@@ -5,7 +5,6 @@
 #### JR1915839 - [高性能计算研发工程师及机器学习算法工程师](/Machine-Learning-Solution-Engineer.md) - 北京，上海，深圳 
 #### JR1915998 - [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 北京，上海，深圳，首尔
 #### JR1917227 - [Deep Learning Solution Architect](/HPC-Solution-Architect.md) - 北京
-#### JR1908220 - 深度学习解决方案架构师(Research Scientist):[Deep Learning Research Scientist](/深度学习解决方案架构师(Research).md) - 北京
 #### JR1916036 - [Video Analytics Algorithm Development Leader](/Video_Analytics_Algorithm_Development_Leader.md) - 上海, 北京
 #### JR1915407 - [Senior Data Analytics Software Engineer - AI Cloud](/Senior_Data_Analytics_Software_Engineer.md) - 上海
 #### JR1903966 - 深度学习解决方案架构师: [Deep Learning Solution Architect](/Deep-Learning-Solution-Architect.md) - 上海
