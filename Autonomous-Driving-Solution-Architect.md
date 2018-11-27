@@ -4,6 +4,10 @@
 #### China, Beijing
 #### China, Shanghai
 
+英伟达自动驾驶团队招聘：只要你精通底层的QNX, Hypervisor, 或者上层的环境感知，高清地图，高精定位或者规划控制等算法，都可以直接发简历联系我；工作地点：上海，北京，深圳。
+
+#### 简历投递：sbai@nvidia.com
+
 For more than two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics. With a singular focus on this field, we offer specialized platforms for the gaming, professional visualization, data center and automotive markets.
 
 Our work is at the center of the most consequential mega-trends in technology — virtual reality, artificial intelligence and self-driving cars. Today, visual computing & artificial intelligence are becoming increasingly central to how people interact with technology, and there has never been a more exciting time to join our team.
@@ -41,4 +45,4 @@ As an ambassador of the NVIDIA Automotive Team, the Automotive Solution Architec
 - Experience working with one or more deep learning frameworks such as Caffe, Torch etc. is a plus.
 - Work experience in sensor fusion, planning, mapping, functional safety areas is a plus.
 
-#### 简历投递：sbai@nvidia.com
+
