@@ -21,6 +21,8 @@
 #### JR1918613 - 自动驾驶解决方案架构师：[Autonomous Driving Solution Architect](/Autonomous-Driving-Solution-Architect.md) - 上海
 
 ----
-### 如果您对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请/咨询, 欢迎推荐 :blush:
+### 如果您对以上职位感兴趣，欢迎直接发送英文简历至sbai@nvidia.com申请/咨询, 欢迎您的热情推荐 :blush:
+
+另外如果您有Graphics或者SOC等背景并想要寻找相关机会的话，也可以直接发送最新英文简历到sbai@nvidia.com
 ----
 ![nvidia-logo](https://blogs.nvidia.com/wp-content/uploads/2018/04/23-deepcore-orbit-star.jpg)
