@@ -1,3 +1,5 @@
+## 预祝大家2019新年快乐！
+
 ## NVIDIA China 2019年热招岗位推荐：
 #### 简历投递：sbai@nvidia.com
 
