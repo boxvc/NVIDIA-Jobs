@@ -13,6 +13,7 @@
 ### GPU架构类：
 #### JR1905460 - 深度学习性能分析架构师: [Deep Learning Performance Architect](/Deep_Learning_Performance_Architect.md) - 上海，新竹
 #### JR1916864 - [GPU SM Architect](/GPU-SM-Architect.md) - 上海
+#### JR1921133 - [GPU Performance Architect](/GPU_Performance_Architect.md) - 上海
 
 ----
 ### 无人驾驶类：
