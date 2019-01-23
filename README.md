@@ -17,7 +17,7 @@
 ----
 ### 无人驾驶类：
 #### JR1918613 - 自动驾驶解决方案架构师：[Autonomous Driving Solution Architect](/Autonomous-Driving-Solution-Architect.md) - 北京，上海
-#### JR1913452 - 汽车系统工程师: [Automotive Solution Engineer](/Automotive_Solution_Engineer.md) - 上海
+#### JR1921116 - 汽车系统工程师: [Automotive Solution Engineer](/Automotive_Solution_Engineer.md) - 上海
 #### JR1908697 - 自动驾驶系统软件工程师: [Autonomous Driving System Engineer](/Autonomous-Driving-System-Engineer.md) - 上海
 
 ----
