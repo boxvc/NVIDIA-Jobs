@@ -1,6 +1,6 @@
 ### Autonomous Solution Manager
 
-###简历投递：sbai@nvidia.com
+### 简历投递：sbai@nvidia.com
 
 Under your engineering leadership you will oversee key parts of our software stack delivery and adaption to NVIDIA’s Automotive customers developing the next generation Autonomous Vehicle Technology; you will help NVIDIA build and lead a world-class customer solutions software engineering team working with NVIDIA’s global engineering and customers in China; you are highly driven proactive software engineering leader with a proven track record of delivering Automotive software solutions from pre-sales to end of life. The focus of this job is on delivering solutions leveraging NVIDIA’s platform and technologies, while influencing internal plans and road maps to support customer requirements; you will drive continuous learning and improvements into the team and across software; you are able to work across various time zones and set up the right communication and alignment flows to get your job done. NVIDIA has a rapid and creative environment that requires extreme adaptability, organization, and self-assurance with confidence to drive toward results while constantly problem-solving and engaging the commitment of others is essential.
 
