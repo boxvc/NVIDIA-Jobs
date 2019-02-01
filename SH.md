@@ -23,6 +23,7 @@
 - 较强的C/C++编程能力，有性能调优/驱动开发经验为佳
 
 #### 8. [Autonomous Solution Manager](/Autonomous-Solution-Manager.md) - 北京，上海
+- 熟悉无人驾驶行业,技术背景,有团队管理经验
 
 #### 9. [Machine Learning Solution Engineer](/Machine-Learning-Solution-Engineer.md) - 北京，上海，深圳
 - 理解，熟练掌握和运用机器学习的基础理论和方法
