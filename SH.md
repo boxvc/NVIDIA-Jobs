@@ -32,7 +32,9 @@
 - 拥有深度学习/机器学习领域的扎实理论基础，熟悉常见的深度学习网络或机器学习算法
 
 #### 11. [Video Analytics Algorithm Development Leader](/Video_Analytics_Algorithm_Development_Leader.md) - 上海, 北京
+- 熟悉深度学习-视觉计算相关算法应用，英语口语流利
 
 #### 12. [AGX Field Applications Engineer](/AGX-Field-Applications-Engineer.md) - 北京，上海，深圳
+- 有嵌入式开发经验，熟悉底层硬件，有过面向客户经验优先
 
 #### 简历投递：sbai@nvidia.com
