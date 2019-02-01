@@ -14,4 +14,7 @@
 #### 4. [Video Analytics Algorithm Development Leader](/Video_Analytics_Algorithm_Development_Leader.md) - 上海, 北京
 - 熟悉深度学习-视觉计算相关算法应用，英语口语流利
 
+#### 5. [Solution Architect-Finance](/Solution-Architect-Finance.md) - 北京
+- 熟悉机器学习，有成功开发软件系统产品经历
+
 #### 简历投递：sbai@nvidia.com
