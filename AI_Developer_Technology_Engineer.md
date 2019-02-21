@@ -4,7 +4,7 @@
 #### 社招/校招地点:  北京 上海 深圳 台北
 #### 实习地点:  上海 北京 - 实习期需满6个月以上
 
-
+#### 简历投递：sbai@nvidia.com
 ----
 ###### 英伟达知名团队DevTech Compute中文名字正式确立为：GPU计算专家团队。这个为英伟达在高性能计算时代和人工智能时代屡立战功的传奇团队开始招聘了。我们在寻找机器学习/深度学习方面的优秀人才，同时也欢迎高性能计算领域的顶尖人才加入到团队。
 
@@ -39,10 +39,10 @@
 - 良好的沟通能力、解决问题能力、时间管理能力和任务优先级管理能力。
 
 
-如果您感兴趣的话， 可以直接发送英文简历至sbai@nvidia.com :blush:
 
 ----
 English Version:
+
 #### NVIDIA is looking for a passionate, world-class computer scientist to work in its Compute Developer Technology (DevTech) team.
 
 ##### Location:Beijing/Shanghai/Shenzhen/Seoul
