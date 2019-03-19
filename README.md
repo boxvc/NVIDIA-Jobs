@@ -11,4 +11,4 @@
 #### 欢迎直接发送您的最新简历和期望工作地点至sbai@nvidia.com申请/咨询, 感谢您的热情推荐 :blush:
 
 
-![nvidia-logo](https://blogs.nvidia.com/wp-content/uploads/2018/04/23-deepcore-orbit-star.jpg)
+![nvidia-logo](https://media.licdn.com/dms/image/C561BAQHcsSYVOBZJRA/company-background_10000/0?e=1553079600&v=beta&t=5E8P7h6qJgSRN_wtcMrN5Om2gA_iPyGbPdR3VnAAgbE)
