@@ -1,5 +1,5 @@
 
-### 深度学习解决方案架构师 - 上海
+### 深度学习解决方案架构师 - 北京，上海
 ___
 #### 目前NVIDIA在中国热招解决方案架构师， 该岗位致力于协同客户经理将NVIDIA最新的深度学习/高性能计算解决方案与技术带给我们的客户, 帮助客户通过实施NVIDIA技术解决方案来提升整体效率。
 
@@ -7,9 +7,9 @@ ___
 - 至少1年以上深度学习相关经验 （算法，应用，竞赛，论文…）
 - 有面向客户经验为佳
 
-详细JD如下 简历投递：sbai@nvidia.com  
+JD如下 简历投递：sbai@nvidia.com  
 
-### Deep Learning Solution Architect - Shanghai, China
+### Deep Learning Solution Architect - Beijing, Shanghai
 
 ##### What you’ll be doing:
 - Assist NVIDIA Account Managers in supporting existing lighthouse accounts and driving new business in those accounts and new accounts.
