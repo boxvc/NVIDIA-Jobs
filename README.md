@@ -1,5 +1,5 @@
 
-### NVIDIA 2019 深度学习职位热招：
+### NVIDIA 2019 职位热招：
 
 
 #### > 深度学习解决方案架构师 [Deep Learning Solution Architect](/Deep-Learning-Solution-Architect.md) - 北京，上海
