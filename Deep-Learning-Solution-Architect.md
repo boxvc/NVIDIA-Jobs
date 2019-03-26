@@ -30,11 +30,11 @@ JD如下 简历投递：sbai@nvidia.com  
 - 1-3 years’ experience with development and application of Machine Learning, data analytics, or computer vision work flows.
 - Outstanding verbal and written communication skills
 - Desire to be involved in multiple diverse and innovative projects
-
-##### Ways to stand out from the crowd:
-- Experience with Deep Learning frameworks and tools, eg. Digits, Caffe, Torch, TensorFlow.
-- CUDA optimization experience.
-- Extensive experience designing and deploying large scale HPC and enterprise computing systems.
+- Ability to work independently with minimal day-to-day direction
+- C/C++/Python/Java/Scala programming experience
+- Desire to be involved in multiple diverse and innovative projects
+- Experience using scale-out cloud and/or HPC architectures for parallel programming
+- MS or PhD in Engineering, Mathematics, Physics, Computer Science, Data Science, Neuroscience, Experimental Psychology or equivalent work experience.
 
 ###### 关于 NVIDIA
 ###### NVIDIA (纳斯达克代码：NVDA) 是一家计算机技术公司，公司一直在 GPU 加速计算的行业中勇当开路先锋。NVIDIA 以满足全球最苛刻的用户需求为己任，为游戏玩家、设计师以及科学家提供产品、服务以及软件，在虚拟现实、人工智能、专业可视化以及自动驾驶汽车等领域中带来出色的用户体验。
