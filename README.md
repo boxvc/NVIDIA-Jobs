@@ -1,5 +1,5 @@
 
-### NVIDIA 2019 职位热招：
+### NVIDIA 2019 Spring 职位热招：
 
 
 #### > 深度学习解决方案架构师 [Deep Learning Solution Architect](/Deep-Learning-Solution-Architect.md) - 北京，上海
@@ -12,4 +12,4 @@
 #### 欢迎直接发送您的最新简历和期望工作地点至sbai@nvidia.com申请/咨询, 欢迎推荐 :blush:
 
 
-![nvidia-logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Nvidia_image_logo.svg/1200px-Nvidia_image_logo.svg.png)
+![ruler 2.0](https://gear.nvidia.com/Assets/ProductImages/NV00-0390-2_Full.jpg)
