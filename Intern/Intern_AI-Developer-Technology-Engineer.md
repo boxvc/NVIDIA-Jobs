@@ -1,4 +1,5 @@
 ## NVIDIA 招聘 AI Developer Technology Engineer - Intern
+----
 ### 实习地点： 北京 Office (朝阳区财富金融中心) / 上海 Office (浦东新区张江高科技园区)
 ### 实习要求： 实习期要求 6 个月以上， 一周至少三天
 #### 简历投递： sbai@nvidia.com 并邮件正文注明可以实习的时间段和实习地点
