@@ -29,4 +29,4 @@ DevTech Compute（GPU 计算专家团队）是这样一个传奇的团队，在�
 
 进入人工智能时代之后，这一传奇还在继续。通过对特定深度学习应用的优化， DevTech Compute（GPU 计算专家团队）继续帮助英伟达巩固其在人工智能领域的霸主地位。而中国，作为人工智能研究和应用的前沿阵地，有数不清的工业应用和研究成果。 GPU 计算专家团队在过去几年中助力中国用户深度优化人工智能的实际应用，使之在 GPU 上保持业界最佳性能。这一传奇还在继续，而我们也需要你的加入为我们续写传奇。
 
-[Back to the position list](/github.com/boxvc/NVIDIA-Jobs/blob/master/README.md)
+[Back to the position list](/README.md)
