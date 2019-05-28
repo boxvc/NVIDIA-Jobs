@@ -1,7 +1,7 @@
-#### Position：AI Developer Technology Engineer
+#### AI Developer Technology Engineer
 
 #### 岗位方向:  机器学习/深度学习/高性能计算
-#### 社招/校招地点:  北京 上海 深圳 台北
+#### 社招/校招地点:  北京 上海 深圳
 
 #### 简历投递：sbai@nvidia.com
 ----
