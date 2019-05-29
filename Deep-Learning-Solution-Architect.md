@@ -1,6 +1,7 @@
 **[:leftwards_arrow_with_hook:回到职位列表](/README.md)**
 ### 深度学习解决方案架构师 - 北京，上海，深圳
 ___
+#### 岗位方向：Finance/Deep learning
 #### 工作地点： 北京/上海/深圳
 #### 简历投递： sbai@nvidia.com
 
