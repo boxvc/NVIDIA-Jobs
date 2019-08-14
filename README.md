@@ -1,8 +1,6 @@
 :star::star::star:
-## NVIDIA 2019 春季职位热招:
+## NVIDIA 2020 校招开启: 还在等什么？赶快投递吧！
 
-
-#### :hearts: 深度学习解决方案架构师 [Deep Learning Solution Architect](/Deep-Learning-Solution-Architect.md) - 北京，上海，深圳
 
 #### :hearts: GPU计算专家团队 [AI Developer Technology Engineer](/AI_Developer_Technology_Engineer.md) - 北京，上海，深圳，首尔，台北
 
