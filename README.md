@@ -1,5 +1,5 @@
 :star::star::star:
-## NVIDIA 2020 校招开启: 还在等什么？赶快投递吧！
+## NVIDIA 英伟达 2020 校招开启: 还在等什么？赶快投递吧！
 
 ## [校招网申入口在这里！](http://campus.51job.com/nvidia2020 "显示")
 
