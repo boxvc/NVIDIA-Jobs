@@ -20,7 +20,16 @@
 
 #### :hearts: 还有更多硬件类实习职位即将开放~~~ 有兴趣的话，快来投递吧！
 
-
+| 职位类别 | 职位名称 | 所在城市  | 职位要求 |
+|:---------------:| :------------ |:---------------:| :-----|
+|硬件|ASIC Intern - Hardware   | 上海|•	电子工程或相关专业(EE/CS)，能实习6个月以上，至少3天/周<br>•	有数字电路设计相关经验, 熟练使用Verilog<br>|
+|硬件| Video Arch Intern - Deep Learning       | 上海    |  •	电子工程或相关专业(EE/CS)，能实习6个月以上，至少3天/周<br>•	有算法/架构相关经验，熟练使用C++<br>|
+|硬件| Arch Intern - Hardware      | 上海    |  •	电子工程或相关专业(EE/CS)，能实习6个月以上，至少3天/周<br>•	有算法/架构相关经验，熟练使用C++<br>|
+|硬件|Verification Intern, Methodology - Hardware| 上海     |   •	电子工程或相关专业(EE/CS)，能实习6个月以上，至少3天/周<br>•	有逻辑验证，逻辑设计等相关经验，熟悉UVM<br> |
+|硬件| Design Verification Intern - Hardware | 上海       |    •	电子工程或相关专业(EE/CS)，能实习6个月以上，至少3天/周<br>•	有逻辑验证，逻辑设计等相关经验，熟悉UVM<br>|
+|硬件| DFT Intern - Hardware| 上海       |   •	电子工程或相关专业(EE/CS)，能实习3个月以上，至少3天/周<br>•	理解Verilog和ASIC设计流程，了解DFT工作的基本概念，有挑战芯片设计和从事DFT设计的热情<br> |
+|硬件|Physical Design Intern - VLSI | 上海       |    •	电子工程或相关专业(EE/CS)，能实习3个月以上，至少3天/周<br>•	熟练使用 Perl/TCL/C/Python优先<br> |
+|硬件| Physical Design CAD Engineer Intern - Hardware| 上海       |    • 电子工程/通讯工程/微波工程及相关专业硕士生 <br />• 熟练掌握高速电路设计/电磁兼容理论/信号完整性/天线原理等专业知识 <br /> • 熟练使用英语 <br /> |
 
 ##### 欢迎直接发送您的最新简历和期望工作地点至sbai@nvidia.com与我取得联系, 欢迎推荐 :blush:
 
